@@ -1,0 +1,12 @@
+name: namico_subscription_manager
+description: Local stub for namico subscription features.
+version: 0.0.1
+publish_to: none
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  meta: ^1.11.0
